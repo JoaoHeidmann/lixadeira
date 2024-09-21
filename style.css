@@ -21,7 +21,6 @@
     text-align: center;
     margin: auto;
 }
-
 .imagem {
     max-width: 100%;
     height: auto;
@@ -39,7 +38,7 @@
 
 .preco {
     font-size: 20px;
-    color: #e74c3c; /* Cor do preço */
+    color: #e74c3c;
     margin: 15px 0;
 }
 
@@ -53,5 +52,9 @@
 }
 
 .comprar:hover {
-    background: #2980b9; /* Efeito hover */
+    background: #2980b9;
+}
+iframe {
+    max-width: 100%;
+    height: auto;
 }
